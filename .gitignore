@@ -1,0 +1,17 @@
+# 可执行文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 临时文件
+*.log
+*.tmp
+
+# 编辑器/系统生成的文件
+.DS_Store
+Thumbs.db
+
+# Go 构建输出目录（如果你自己建了）
+bin/
